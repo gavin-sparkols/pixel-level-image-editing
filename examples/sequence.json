@@ -1,0 +1,20 @@
+{
+  "original": "original.png",
+  "rounds": [
+    {
+      "name": "add-object",
+      "image": "round_01.png",
+      "mask": "mask_01.png",
+      "mode": "paste",
+      "overlap": "current"
+    },
+    {
+      "name": "recolor-background-object",
+      "image": "round_02.png",
+      "mask": "mask_02.png",
+      "mode": "recolor",
+      "overlap": "previous"
+    }
+  ]
+}
+
