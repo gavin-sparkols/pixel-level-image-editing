@@ -220,6 +220,6 @@ pytest -q
 └── README.md
 ```
 
-## License
+## License and attribution
 
-[MIT](LICENSE)
+Licensed under the [Apache License 2.0](LICENSE). Modified or redistributed versions must retain [`NOTICE`](NOTICE) and clearly credit **Gavin (GitHub: [@gavin-sparkols](https://github.com/gavin-sparkols))** as the original author.
