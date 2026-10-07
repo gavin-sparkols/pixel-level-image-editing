@@ -53,8 +53,8 @@ For multi-round editing, accepted masks are accumulated. Each new round starts f
 ## Installation
 
 ```bash
-git clone https://github.com/gavin-sparkols/像素级图片编辑.git
-cd 像素级图片编辑
+git clone https://github.com/gavin-sparkols/pixel-level-image-editing.git
+cd pixel-level-image-editing
 python -m venv .venv
 source .venv/bin/activate
 pip install -e .
@@ -223,4 +223,3 @@ pytest -q
 ## License
 
 [MIT](LICENSE)
-
